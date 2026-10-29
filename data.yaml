@@ -1,0 +1,9 @@
+path: C:/Users/aj595/OneDrive/Desktop/Road_Damage_Detection/dataset
+
+train: images/train
+val: images/val
+
+names:
+  0: pothole
+  1: crack
+  2: manhole
